@@ -1,6 +1,6 @@
 # Watcher of Friends Online
 
-[TODO. There will be project description]
+See who is your VK friends online like a huge nerd :)
 
 # How to Install
 
@@ -11,6 +11,12 @@ pip install -r requirements.txt # alternatively try pip3
 ```
 
 Remember, it is recommended to use [virtualenv/venv](https://devman.org/encyclopedia/pip/pip_virtualenv/) for better isolation.
+
+# How to Run
+
+```bash
+python3 vk_friends_online.py
+```
 
 # Project Goals
 
